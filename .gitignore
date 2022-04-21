@@ -2,4 +2,5 @@
 .gradle
 
 # Ignore Gradle build output directory
-jdk-transform/build
+build
+jdk-transform/bin
